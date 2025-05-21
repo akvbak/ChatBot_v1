@@ -75,8 +75,7 @@
      "context": [""]
     }, 
 
-    {
-  "intents": [
+
     {
       "tag": "what_is_photosynthesis",
       "patterns": [
@@ -20127,4 +20126,3 @@
     }
   ]
 }
-]}
