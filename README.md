@@ -1,6 +1,7 @@
-# 🧠 Banking Chatbot with PyTorch
+# 🧠 General Knowledge Chatbot with PyTorch
 
-A basic banking and finance chatbot built with Python and PyTorch. Understands user intents using NLP and responds intelligently to queries like opening accounts, card issues, and more.
+- A basic general knowledge chatbot built with Python and PyTorch. Understands user intents and responds to queries concerning topics such as Geography, Science, Literature, Mathematics, History, Technology, Pop Culture, Fun Facts & Random Trivia and more.
+- The bot is designed for educational and exploratory purposes and can be extended easily with new intents and functionalities.
 
 ## ✨ Features
 
