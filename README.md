@@ -51,6 +51,7 @@ nltk.download('wordnet')
 ## 🚀 How to Run
 
 ```bash
+git clone https://github.com/akvbak/ChatBot_v1/
 python main.py
 ```
 
@@ -101,6 +102,14 @@ User: exit
 
 ---
 
+## 🛠️ Future Improvements
+- Add support for contextual conversations
+- Integrate with a web interface using Flask or Streamlit
+- Extend intents with other topics (sports, finance, health)
+- Use pre-trained embeddings like Word2Vec or BERT for better accuracy
+
+---
+
 ## 👨🏽‍💻 Author
 
-Created by **Kekeli Akaba**
+Created by **Kekeli Akaba** as a learning project for neural networks, intent classification, word tokenization & lemmatization and chatbot development in Python.
