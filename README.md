@@ -52,7 +52,7 @@ nltk.download('wordnet')
 ## 🚀 How to Run
 
 ```bash
-git clone [https://github.com/akvbak/ChatBot_v1/](https://github.com/akvbak/ChatBot_v1.git)
+git clone (https://github.com/akvbak/ChatBot_v1.git)
 python main.py
 ```
 
