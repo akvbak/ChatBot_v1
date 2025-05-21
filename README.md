@@ -14,7 +14,7 @@ A basic banking and finance chatbot built with Python and PyTorch. Understands u
 
 ## 📁 Project Structure
 
-- ├── main.py # Python script containing the chatbot logic
+  ├── main.py # Python script containing the chatbot logic
 - ├── intents.json # Contains training data: tags, patterns, and responses
 - ├── chatbot_model.pth # Saved trained model weights (generated after training)
 - ├── dimensions.json # Stores model input/output size info (generated after training)
