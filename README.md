@@ -4,11 +4,11 @@ A basic banking and finance chatbot built with Python and PyTorch. Understands u
 
 ## ✨ Features
 
-- Recognizes over 100 banking-related intents (e.g., account opening, card issues, balance inquiries).
-- Trained on custom `intents.json` with example phrases and corresponding responses.
-- Uses bag-of-words model and PyTorch neural network for intent classification.
-- Supports custom action mapping (e.g., running a function when an intent is matched).
-- Extensible and easy to train or retrain with new intents.
+- Intent classification using a custom feedforward neural network
+- Training with tokenized and lemmatized input text
+- General knowledge questions across a wide variety of domains
+- Extensible with custom functions using function_mappings
+- Lightweight CLI interaction loop for testing
 
 ---
 
