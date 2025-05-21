@@ -1,81 +1,4 @@
-{"intents": [
-    {"tag": "greeting",
-     "patterns": ["Hi there", "Is anyone there?", "Hey", "Hola", "Hello", "Good day", "goodmorning", "goodafternoon", "goodevening", "How do you do?", "Yo"],
-     "responses": ["Hello", "Good to see you", "Hi there, how can I help?", "Hi! How can I help you?", "Heya!", "Welcome! I am at your service." ],
-     "context": [""]
-    },
-    {"tag": "goodbye",
-     "patterns": ["Bye", "See you later", "Goodbye", "Nice talking to you, bye", "Till next time", "farewell"],
-     "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
-     "context": [""]
-    },
-    {"tag": "thanks",
-     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me", "Tenkew", "Thank you so much", "Thanks a lot", "I appreciate it", "I am grateful"],
-     "responses": ["My pleasure", "You're Welcome", "No problem", "Anytime!", "Glad to help"],
-     "context": [""]
-    },
-    {"tag": "noanswer",
-     "patterns": [],
-     "responses": ["Sorry, I don't understand. Can you try rephrasing?", "I am not sure I understand. Can you elaborate?", "I am not sure I understand. Can you elaborate?"],
-     "context": [""]
-    },
-    {"tag": "myname",
-     "patterns": ["What is your name?", "What should I call you?", "Do you have a name?"],
-     "responses": ["I am a chatbot created by Kekeli Akaba, You can call me Bob."],
-     "context": [""]
-    },
-    {"tag": "help",
-     "patterns": ["Can you help me?", "I need help", "Can you assist me?", "Help me"],
-     "responses": ["Sure, I am here to help you. Just let me know what you need help with.", "Of course! What do you need help with?"],
-     "context": [""]
-    },
-    {"tag": "course",
-     "patterns": ["What courses do you offer?", "What are the courses available?", "Tell me about your courses", "What courses can I take?"],
-     "responses": ["We offer a variety of courses in data science, AI, cloud computing, and more. Please visit our website for more details."],
-     "context": [""]
-    },
-    {"tag": "pricing",
-     "patterns": ["What is the price of your courses?", "How much do your courses cost?", "Tell me about course pricing", "Are there any discounts available?"],
-     "responses": ["Our course prices vary. Please check our website for the latest pricing and offers."],
-     "context": [""]
-    },
-    {"tag": "location",
-     "patterns": ["Where are you located?", "What is your address?", "Where can I find you?"],
-     "responses": ["We are located in multiple cities worldwide. Please check our website for specific locations."],
-     "context": [""]
-    },
-    {"tag": "contact",
-     "patterns": ["How can I contact you?", "What is your contact number?", "How do I reach you?"],
-     "responses": ["You can contact us through our website or customer support email."],
-     "context": [""]
-    },
-    {"tag": "feedback",
-     "patterns": ["I have feedback", "Can I give feedback?", "I want to share my thoughts"],
-     "responses": ["We appreciate your feedback! Please share your thoughts with us."],
-     "context": [""]
-    },
-    {"tag": "complaint",
-     "patterns": ["I have a complaint", "I want to file a complaint", "Can I report an issue?"],
-     "responses": ["We take complaints seriously. Please provide details so we can assist you."],
-     "context": [""]
-    },
-    {"tag": "support",
-     "patterns": ["I need support", "Can you provide support?", "I need assistance"],
-     "responses": ["Sure! What do you need support with?"],
-     "context": [""]
-    },
-    {"tag": "thanks",
-     "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
-     "responses": ["My pleasure", "You're Welcome"],
-     "context": [""]
-    },
-    {"tag": "query",
-     "patterns": ["What is Simplilearn?"],
-     "responses": ["Simplilearn is the popular online Bootcamp & online courses learning platform "],
-     "context": [""]
-    }, 
-
-    {
+{
   "intents": [
     {
       "tag": "what_is_photosynthesis",
@@ -20127,4 +20050,3 @@
     }
   ]
 }
-]}
